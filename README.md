@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello 
 
-<!--
-**gavageovanni/gavageovanni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+     
+   I'm Geovanni Gava, 33 from Brasil, Developer who's trying to learn the whole world at the same minutes :sunglasses: 
+   Jokes over, im really like to programming and search about things and for me is the perfect match because you always searching and studying when you are programming,
+   Check some things about me bellow:
 
-Here are some ideas to get you started:
+- 🔭 I am currently studying ReactJS and React Native, but I also really like Angular S2.
+- :fire: And I'm learning ReactJS, NodeJS and Python for data science.
+- :fire: Java/Kotlin/GO is my heart <3
+- 📫 You can chat with me in those links: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+      * https://www.linkedin.com/in/geovanni-de-morais-gava-022ab0124/
+      * geovannigava@hotmail.com
+
+       
+ ![](https://komarev.com/ghpvc/?username=gavageovanni)
