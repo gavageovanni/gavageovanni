@@ -1,14 +1,19 @@
 ### Hello 
 
      
-   I'm Geovanni Gava, 35 from Brasil, Developer who's trying to learn the whole world at the same minutes :sunglasses: 
+   I'm Geovanni Gava, 33 from Brasil, Developer who's trying to learn the whole world at the same minutes :sunglasses: 
    Jokes over, im really like to programming and search about things and for me is the perfect match because you always searching and studying when you are programming,
    Check some things about me bellow:
 
-- 🔭 I am currently studying ReactJS and React Native, but I also really like Angular S2.
-- :fire: And I'm learning ReactJS, NodeJS and Python for data science.
+- 🔭 I am currently studying Golang.
+- :fire: And I'm learning ReactJS, Node.js.
 - :fire: Java/Kotlin/GO is my heart <3
 - 📫 You can chat with me in those links: 
+
+<a href="https://github.com/gavageovanni">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovannigava&layout=compact&langs_count=7&theme=dracula"/>&nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geovannigava&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</a>
 
       * https://www.linkedin.com/in/geovanni-de-morais-gava-022ab0124/
       * geovannigava@hotmail.com
