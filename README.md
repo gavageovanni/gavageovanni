@@ -6,8 +6,7 @@
    Check some things about me bellow:
 
 - 🔭 I am currently studying Golang.
-- :fire: And I'm learning ReactJS, Node.js.
-- :fire: Java/Kotlin/GO is my heart <3
+- :fire: Java/Kotlin is my heart <3
 - 📫 You can chat with me in those links: 
 
 <a href="https://github.com/gavageovanni">
